@@ -1,0 +1,14 @@
+执行日期：20161030205708
+{"l_id":1,"name":"zhangsan","pwd":"000","token":"zhangsandan"}
+执行日期：20161031075319
+{"l_id":1,"name":"zhangsan","pwd":"000","token":"80df97c8bfca3b1906acfd053376b469"}
+执行日期：20161031080708
+田金刚
+执行日期：20161031083336
+田金刚
+执行日期：20161031083632
+{"id":1,"username":"\u7530\u91d1\u521a","pwd":"123","token":"9a25af75d32cb5fc06758c5fff0dafd7"}
+执行日期：20161031083712
+{"id":1,"username":"\u7530\u91d1\u521a","pwd":"123","token":"9a25af75d32cb5fc06758c5fff0dafd7"}
+执行日期：20161031083756
+{"id":1,"username":"\u7530\u91d1\u521a","pwd":"123","token":"9a25af75d32cb5fc06758c5fff0dafd7"}
