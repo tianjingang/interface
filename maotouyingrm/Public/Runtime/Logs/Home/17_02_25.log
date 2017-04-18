@@ -1,0 +1,6 @@
+[ 2017-02-25T15:58:57+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '25' for column 'xuxi_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('15','10','0','0.1','101','2017-02-25','25','7','2017-02-25','2017-02-25','2017/02/25/1488009529548')
+ERR: 1292:Incorrect date value: '25' for column 'xuxi_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('15','10','0','0.1','101','2017-02-25','25','7','2017-02-25','2017-02-25','2017/02/25/1488009529548')
+

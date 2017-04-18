@@ -1,0 +1,78 @@
+[ 2017-03-02T11:45:39+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1111111111','3','2017-03-02','2017-03-02','25','','','2017-03-02-1488426335739')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1111111111','3','2017-03-02','2017-03-02','25','','','2017-03-02-1488426335739')
+
+[ 2017-03-02T11:46:44+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1111111111','3','2017-03-02','2017-03-02','25','','','2017-03-02-1488426335739')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1111111111','3','2017-03-02','2017-03-02','25','','','2017-03-02-1488426335739')
+
+[ 2017-03-02T13:32:53+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','111111','3','2017-03-02','2017-03-02','25','','','')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','111111','3','2017-03-02','2017-03-02','25','','','')
+
+[ 2017-03-02T14:18:00+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','')
+
+[ 2017-03-02T14:18:40+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','2017-03-02-1488435475650')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','2017-03-02-1488435475650')
+
+[ 2017-03-02T14:19:07+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','2017-03-02-1488435475650')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','2','2017-03-02','2017-03-02','25','','','2017-03-02-1488435475650')
+
+[ 2017-03-02T15:47:50+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','0.1','1','2017-03-02','2017-03-02','25','','','2017-03-02-1488440863003')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','0.1','1','2017-03-02','2017-03-02','25','','','2017-03-02-1488440863003')
+
+[ 2017-03-02T15:54:00+08:00 ] 117.73.147.209 /Loan/add
+ERR: 1292:Incorrect date value: '2012-02-30' for column 'extense_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('64','21','1','22','2','2017-03-01','2017-03-01','2','2019-03-01','2012-02-30','aaa.jpg')
+ERR: 1292:Incorrect date value: '2012-02-30' for column 'extense_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('64','21','1','22','2','2017-03-01','2017-03-01','2','2019-03-01','2012-02-30','aaa.jpg')
+
+[ 2017-03-02T15:55:27+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','1','2017-03-02','2017-03-02','25','','','2017-03-02-1488441323588')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','1234','1','2017-03-02','2017-03-02','25','','','2017-03-02-1488441323588')
+
+[ 2017-03-02T16:57:54+08:00 ] 117.73.147.209 /Loan/add
+ERR: 1364:Field 'extense_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`contract_file`) VALUES ('16','21','0','1234','1','2017-03-01','2017-03-02','25','2019-03-01','2017-03-02-1488441323588')
+ERR: 1364:Field 'extense_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`contract_file`) VALUES ('16','21','0','1234','1','2017-03-01','2017-03-02','25','2019-03-01','2017-03-02-1488441323588')
+
+[ 2017-03-02T17:10:29+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','12134','2','2017-03-02','2017-03-02','25','','2017-03-02','2017-03-02-1488445825636')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','12134','2','2017-03-02','2017-03-02','25','','2017-03-02','2017-03-02-1488445825636')
+
+[ 2017-03-02T17:13:34+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','12546','3','2017-03-02','2017-03-02','25','','2017-03-02','2017-03-02-1488446009785')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','0','12546','3','2017-03-02','2017-03-02','25','','2017-03-02','2017-03-02-1488446009785')
+
+[ 2017-03-02T17:21:54+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','2','11111111','2','2017-03-02','2017-03-02','26','','2017-03-02','2017-03-02-1488446507369')
+ERR: 1292:Incorrect date value: '' for column 'repay_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('16','10','2','11111111','2','2017-03-02','2017-03-02','26','','2017-03-02','2017-03-02-1488446507369')
+

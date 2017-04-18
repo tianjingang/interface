@@ -1,0 +1,45 @@
+[ 2017-02-23T13:35:42+08:00 ] 114.248.122.226 /Public/test
+ERR: Class 'Home\Controller\Easemob' not found
+
+[ 2017-02-23T13:49:40+08:00 ] 114.248.122.226 /Public/test
+ERR: Call to undefined function Home\Controller\editNickname()
+
+[ 2017-02-23T15:07:18+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Home\Controller\Auth' not found
+
+[ 2017-02-23T15:09:46+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Home\Controller\Auth' not found
+
+[ 2017-02-23T15:10:50+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:14+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:16+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:23+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:24+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:25+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:25+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:25+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:26+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T15:12:26+08:00 ] 114.248.122.226 /Public/getQiNiuToken
+ERR: Class 'Auth' not found
+
+[ 2017-02-23T16:04:04+08:00 ] 114.248.122.226 /Compan/addEmployee
+ERR: 无法加载控制器:Compan
+

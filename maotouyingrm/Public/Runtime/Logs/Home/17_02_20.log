@@ -1,0 +1,21 @@
+[ 2017-02-20T11:54:43+08:00 ] 117.73.147.15 /Public/resetPass
+ERR: 非法操作:resetPass
+
+[ 2017-02-20T15:39:28+08:00 ] 117.73.147.15 /Business/add
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`pic`,`content`) VALUES ('/dfdf/d/df.jpg','dfsdf')
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`pic`,`content`) VALUES ('/dfdf/d/df.jpg','dfsdf')
+
+[ 2017-02-20T15:41:53+08:00 ] 117.73.147.15 /Business/add
+ERR: 1364:Field 'user_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`pic`,`content`) VALUES ('/dfdf/d/df.jpg','dfsdf')
+ERR: 1364:Field 'user_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`pic`,`content`) VALUES ('/dfdf/d/df.jpg','dfsdf')
+
+[ 2017-02-20T15:43:08+08:00 ] 117.73.147.15 /Business/add
+ERR: 1364:Field 'create_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`user_id`,`pic`,`content`) VALUES ('9','/dfdf/d/df.jpg','dfsdf')
+ERR: 1364:Field 'create_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_business` (`user_id`,`pic`,`content`) VALUES ('9','/dfdf/d/df.jpg','dfsdf')
+

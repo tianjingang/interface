@@ -1,0 +1,18 @@
+[ 2017-02-21T10:48:29+08:00 ] 223.21.89.107 /Loan/add
+ERR: 1292:Incorrect date value: '新华网' for column 'xuxi_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('6','10','0','12','101','2017-02-21','新华网','1','新华网','','')
+ERR: 1292:Incorrect date value: '新华网' for column 'xuxi_date' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('6','10','0','12','101','2017-02-21','新华网','1','新华网','','')
+
+[ 2017-02-21T12:14:45+08:00 ] 61.48.155.104 /Public/area
+ERR: Too few arguments to function Think\Model::where(), 0 passed in /data/wwwroot/maotouyingrm/App/Home/Controller/PublicController.class.php on line 19 and at least 1 expected
+
+[ 2017-02-21T12:15:34+08:00 ] 61.48.155.104 /Public/area
+ERR: Too few arguments to function Think\Model::where(), 0 passed in /data/wwwroot/maotouyingrm/App/Home/Controller/PublicController.class.php on line 19 and at least 1 expected
+
+[ 2017-02-21T15:09:21+08:00 ] 61.48.155.104 /User/getUserInfo
+ERR: 1054:Unknown column 'position' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`phone`,`username`,`companyname`,`roleid`,`avator`,`companyfile`,`position` FROM `mr_user` WHERE `id` = 9 LIMIT 1  
+ERR: 1054:Unknown column 'position' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`phone`,`username`,`companyname`,`roleid`,`avator`,`companyfile`,`position` FROM `mr_user` WHERE `id` = 9 LIMIT 1  
+

@@ -1,0 +1,6 @@
+[ 2017-02-17T14:15:12+08:00 ] 117.73.240.252 /Loan/search
+ERR: 1146:Table 'mtyrm.mr_inspect_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `mr_inspect_model`
+ERR: 1146:Table 'mtyrm.mr_inspect_model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `mr_inspect_model`
+

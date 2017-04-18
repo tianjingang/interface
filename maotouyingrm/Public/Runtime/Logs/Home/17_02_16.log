@@ -1,0 +1,18 @@
+[ 2017-02-16T19:26:08+08:00 ] 117.73.147.89 /Loan/add
+ERR: Function name must be a string
+
+[ 2017-02-16T19:33:50+08:00 ] 117.73.147.89 /Loan/add
+ERR: Function name must be a string
+
+[ 2017-02-16T19:34:36+08:00 ] 117.73.147.89 /Loan/add
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('3','8','1','123','1','2017-02-03','7','2017-02-03','2017-02-03','/sdf/sdf.jgp')
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('3','8','1','123','1','2017-02-03','7','2017-02-03','2017-02-03','/sdf/sdf.jgp')
+
+[ 2017-02-16T19:35:08+08:00 ] 117.73.147.89 /Loan/add
+ERR: 1364:Field 'loan_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('4','8','1','123','1','2017-02-03','7','2017-02-03','2017-02-03','/sdf/sdf.jgp')
+ERR: 1364:Field 'loan_date' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('4','8','1','123','1','2017-02-03','7','2017-02-03','2017-02-03','/sdf/sdf.jgp')
+

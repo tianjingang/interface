@@ -1,0 +1,42 @@
+[ 2017-03-03T17:18:18+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('77','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('77','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:24+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('78','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('78','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:25+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('79','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('79','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:26+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('80','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('80','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:27+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('81','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('81','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:53+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('66','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('66','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+
+[ 2017-03-03T17:18:54+08:00 ] 117.73.146.49 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('66','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('66','21','1','2222222222','2','2017-03-03','2017-04-03','222','2035-05-28','2017-03-03','aaa.jpg')
+

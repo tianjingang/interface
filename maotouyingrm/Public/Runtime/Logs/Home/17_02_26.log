@@ -1,0 +1,18 @@
+[ 2017-02-26T13:54:22+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('17','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('17','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+
+[ 2017-02-26T13:55:01+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('19','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('19','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+
+[ 2017-02-26T13:55:12+08:00 ] 223.21.81.19 /Loan/add
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('20','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+ERR: 1264:Out of range value for column 'loan' at row 1
+ [ SQL语句 ] : INSERT INTO `mr_inspect` (`debtor_id`,`user_id`,`status`,`loan`,`pawn`,`loan_date`,`xuxi_date`,`loan_times`,`repay_date`,`extense_date`,`contract_file`) VALUES ('20','10','0','1111111111','4','2017-02-26','2017-02-26','58','2017-02-26','2017-02-26','2017-02-26-1488088455294')
+
